@@ -1,0 +1,11 @@
+*{margin:0;padding:0;box-sizing: border-box}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.banner{
+   width: 100%;
+    height: 768px;
+   background: url(../imgs/%E4%B8%AA%E4%BA%BA%E7%BD%91%E9%A1%B5_r1_c1.jpg) no-repeat;
+   background-size: cover;
+}
